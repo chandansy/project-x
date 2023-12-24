@@ -1,0 +1,28 @@
+role: Data Engineer
+
+skills: Apache Airflow, python, fastapi, PostgreSQL, MySQL, MongoDB, Machine Learning, MS Excel, Web Scrappig, Backend development, Github
+
+Experience:
+
+ADAPTREADY 
+DataEngineer
+Dec 2022–Present
+
+    • Developedarobustdatapipelineandautomateddatacollectionprocesses
+ using ApacheAirflow,resultingina90-95%reductioninmanualwork.
+    • CraftedaPythonscripttogatherdatafromdiversesources,creatingdatasets
+ for training Time Series MachineLearningmodels.
+    • Currentlyengagedinbuildingareal-timedatapipelinewithApacheAirflow
+ for immediatedataprocessing.
+    • Analyzedvariousgeospatialdatasetsutilizing QGISandimplementedmachine
+ learning algorithms such as K-MeansandDBSCANformeaningfulinsights.
+    • CreatedESRIShapefilesandGeoJSONfilesbyapplyingGeo-referencing
+ techniques in QGIStoassessriskanddamagecausedbynaturalcatastrophes.
+    • Compiledcomprehensivedatasetsencompassingvariousenergytypes,
+ including various non-renewable andrenewableenergysources.
+    • Developedarobustriskscoringlogicforaddressingdiversebusiness
+ challenges.
+    • Managedandprocessedamassivedatasetcomprisingover1.5milliondata
+ points.
+    • AutomatedwebscrapingproceduresusingPythonlibrariessuchas
+ BeautifulSoup for efficient data collection.

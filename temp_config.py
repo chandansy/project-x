@@ -1,0 +1,4 @@
+OPENAI_API_KEY=adnalsdklandjk 
+GEMINI_API_KEY=qweqweqweqe
+OPENAI_API_KEY=adnalsdklandjk 
+OPENAI_API_KEY=adnalsdklandjk 

@@ -1,0 +1,15 @@
+name : chadndna
+year of experience : 7
+education : Bachelor's
+education domain/certifications : vcvxv
+github Link : vcxvxv.com
+project 1 : fghfghfghfhgfh
+fghfgh
+fh
+fghfghfhfh
+project 2 : fghfgh
+fhgh
+fh
+fh
+fhfh
+skills : pyhton,fastapi,react
